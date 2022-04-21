@@ -14,7 +14,7 @@ Last active 6 months ago • Report abuse
 Code
 Revisions 2
 archivo-actions-githubpages.yml
-name: deploy-book
+name: deploy
 # tomado de: https://jupyterbook.org/publish/gh-pages.html?highlight=github%20actions
 # Only run this when the master branch changes
 on:
