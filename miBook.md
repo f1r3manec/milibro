@@ -29,4 +29,4 @@ A continuación una breve descripción de las herramientas utilizadas:
 
 ## UTPL
 
-> ![Decide ser más](https://www.utpl.edu.ec/sites/default/files/Recurso%201%403x.png "utpl logo") > [Decide ser más](https://www.utpl.edu.ec/)
+> [Decide ser más](https://www.utpl.edu.ec/)
