@@ -6,4 +6,4 @@ root: miBook
 chapters:
   - file: python-page
   - file: jupyterbook-page
-  - file: github-page-notebooks
+  - file: github-page

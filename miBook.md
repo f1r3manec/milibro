@@ -1,6 +1,6 @@
 # Hello, world
 
-Esta es la primera página estática creada con markdownm, para lo cual se ha utilizado únicamente _VSCode_, _JupyterBooks_, _Gihub_ y _Git_.
+Esta es la primera página estática creada con markdown, para lo cual se ha utilizado únicamente _VSCode_, _JupyterBooks_, _Gihub_ y _Git_.
 Para este proceso de aprendizaje ha sido requerido el investigar, primero como funciona JupytherBooks y la sintaxis de markdow.
 
 A continuación una breve descripción de las herramientas utilizadas:
